@@ -1,2 +1,2 @@
 # Self-Driving-Car
-A learning project for self dring toy car
+A learning project for self driving toy car
